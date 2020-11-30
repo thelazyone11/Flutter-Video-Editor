@@ -143,7 +143,7 @@ class HomePage extends StatelessWidget {
                         child: InkWell(
                           onTap: () async {
                             const url =
-                                'https://github.com/thelazyone11/flutter_video_editor';
+                                'https://github.com/thelazyone11/Flutter-Video-Editor';
                             if (await canLaunch(url)) {
                               await launch(url);
                             } else {
