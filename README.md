@@ -1,4 +1,4 @@
-# example
+# Flutter Video Editor
 
 A new Flutter project.
 
