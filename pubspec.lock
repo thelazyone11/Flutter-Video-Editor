@@ -374,9 +374,9 @@ packages:
   video_trimmer:
     dependency: "direct main"
     description:
-      path: ".."
-      relative: true
-    source: path
+      name: video_trimmer
+      url: "https://pub.dartlang.org"
+    source: hosted
     version: "0.3.4"
   win32:
     dependency: transitive
